@@ -1,4 +1,4 @@
 # myrepo
 Repository for testing my Git/GitHub setup
 
-this line written by R
+This is a line from RStudio
